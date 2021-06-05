@@ -18,7 +18,7 @@
 - Branch
 - Repo files
 
-### Project Deliverables
+### Lab Deliverables
 
 1. lab-02-files.txt
 
